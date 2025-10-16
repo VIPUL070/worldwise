@@ -11,6 +11,10 @@
   gap: 2rem;
 }
 
+.city{
+  overflow:hidden ;
+}
+
 .row {
   display: flex;
   flex-direction: column;
