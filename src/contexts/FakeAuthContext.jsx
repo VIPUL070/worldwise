@@ -44,7 +44,7 @@ function AuthProvider({children}){
   }
 
   function logout(){
-        dispatch({type: "logout"});  
+      dispatch({type: "logout"});  
   }
 
   return(
